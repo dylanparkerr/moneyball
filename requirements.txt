@@ -1,2 +1,2 @@
-pybaseball
+pybaseball @ git+https://github.com/dylanparkerr/pybaseball@master
 requests
